@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-06T01:14:03Z" name="Default suite" finished-at="2023-04-06T01:14:13Z" duration-ms="10575">
+    <groups>
+    </groups>
+    <test started-at="2023-04-06T01:14:03Z" name="Default test" finished-at="2023-04-06T01:14:13Z" duration-ms="10575">
+      <class name="webdirve.Topic_01_Check_Environment">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:webdirve.Topic_01_Check_Environment@67080771]" started-at="2023-04-06T01:14:03Z" name="beforeClass" finished-at="2023-04-06T01:14:12Z" duration-ms="9235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="TC_01_Url()[pri:0, instance:webdirve.Topic_01_Check_Environment@67080771]" started-at="2023-04-06T01:14:12Z" name="TC_01_Url" finished-at="2023-04-06T01:14:12Z" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Url -->
+        <test-method signature="TC_02_Logo()[pri:0, instance:webdirve.Topic_01_Check_Environment@67080771]" started-at="2023-04-06T01:14:12Z" name="TC_02_Logo" finished-at="2023-04-06T01:14:12Z" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_Logo -->
+        <test-method signature="TC_03_Form()[pri:0, instance:webdirve.Topic_01_Check_Environment@67080771]" started-at="2023-04-06T01:14:12Z" name="TC_03_Form" finished-at="2023-04-06T01:14:12Z" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_Form -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:webdirve.Topic_01_Check_Environment@67080771]" started-at="2023-04-06T01:14:12Z" name="afterClass" finished-at="2023-04-06T01:14:13Z" duration-ms="1063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- webdirve.Topic_01_Check_Environment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
